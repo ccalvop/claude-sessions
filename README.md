@@ -124,7 +124,7 @@ This way, both the VS Code dropdown and `claude-sessions search` will show meani
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/claude-sessions.git
+git clone https://github.com/ccalvop/claude-sessions.git
 
 # Make executable (if not already)
 chmod +x claude-sessions/claude-sessions.sh
